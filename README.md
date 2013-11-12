@@ -1,6 +1,6 @@
 # llama
 
-llama converts mysql database from latin1 to utf8 properly based on Sarim Khan's blog post [_Mysql Utf/latin Collation and Bangla Nightmare_](http://blog.sarim.me/2013/03/18/mysql-utf-slash-latin-collation-and-bangla-nightmare/)
+llama converts a mysql database from latin1 to utf8 properly based on Sarim Khan's blog post [_Mysql Utf/latin Collation and Bangla Nightmare_](http://blog.sarim.me/2013/03/18/mysql-utf-slash-latin-collation-and-bangla-nightmare/)
 
 ## Installation
 ```
